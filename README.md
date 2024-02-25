@@ -31,4 +31,4 @@ Customize the dashboard according to your specific analysis requirements. You ca
 
 ## Feedback
 
-If you have any feedback or questions about the Orders Dashboard, please [open an issue]() or contact [saveethaganeshbabu@gmail.com].
+If you have any feedback or questions about the Orders Dashboard, please [open an issue](https://github.com/savee2003/Power-BI-Dashboard/issues) or contact [saveethaganeshbabu@gmail.com].
